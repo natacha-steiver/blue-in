@@ -1,0 +1,581 @@
+body{
+  font-family: 'Raleway', sans-serif;
+}
+#sidebar2{
+  position: fixed;
+  top:10px;
+
+}
+audio{
+  text-align: center;
+
+}
+.agenda{
+  #sidebar{
+table{
+    min-width: 500px;
+  }
+  }
+}
+.media{
+  h2{
+    width: 100%;
+
+  }
+  aside{
+  min-width: 100%;
+  }
+  #sidebar{
+
+      width: 100%;
+
+  }
+}
+#liste{
+  li{
+    padding: 1em;
+    list-style-type: none;
+    .perso{
+      display: block;
+      max-width: 100px;
+    }
+  }
+}
+#derniers_albums{
+
+h3{
+  font-size: 1em;
+  margin-top: .8em;
+}
+
+  a{
+    color:#00B6FB;
+    text-decoration: none;
+    &:hover{
+      color:blue;
+      text-decoration: none;
+    }
+  }
+}
+.section-musiques{
+
+  >h2:nth-of-type(1){
+    margin-top: -2em;
+    margin-bottom: 2em;
+  }
+  #lire{
+    margin-left:0px;
+  }
+}
+.section-articles{
+  #lire{
+    margin-left:0px;
+  }
+  >h2{
+    margin-top: -2em;
+    margin-bottom: 2em;
+  }
+article{
+  h2{
+    text-align: right;
+    margin-top: -3em;
+    margin-bottom: 3em;
+  }
+}
+}
+.boite-noire{
+
+
+  padding: 1em;
+background: #000;
+color: #fff;
+
+a{
+  color:#00B6FB;
+  text-decoration: none;
+  &:hover{
+    color:blue;
+    text-decoration: none;
+  }
+}
+img{
+  width: 100%;
+}
+}
+  figcaption{
+    display: none;
+  }
+
+
+a{
+  color:#00B6FB;
+  text-decoration: none;
+  &:hover{
+    color:blue;
+    text-decoration: none;
+  }
+}
+#categorie{
+  width: 100%;
+}
+#sidebar{
+  text-align: center;
+  border-left: 1px #fff solid;
+
+
+
+
+
+  #searchform{
+    label{
+      display: none;
+    }
+    input:nth-of-type(1){
+      max-width:8em;
+      margin-bottom: .5em;
+    }
+  }
+
+
+
+  >h3,#search-2{
+    text-align: center;
+    width: 100%;
+    padding: 1.2em;
+        margin: 0;
+    background: #fff;
+  }
+  div,#search-2{
+    margin-bottom: 30px;
+  }
+div>h3{
+    color:#fff;
+  }
+
+  #searchsubmit{
+    background: #00B6FB;
+    border:none;
+    color:#fff;
+  }
+  background: #000;
+  ul{
+    padding-left: 0;
+    margin-left: 0;
+    div>ul li{
+      padding-left: 0;
+      margin-left: 0;
+    }
+  }
+  li{
+    list-style-type: none;
+  }
+
+}
+#section_contact{
+  color:#fff;
+  h2{
+  padding: 30px;
+
+    color:#00B6FB;
+
+
+  }
+  background: #000;
+  p,li,a{
+
+    padding: 0 30px;
+  }
+
+
+  article{
+
+
+div p{
+  padding-left:2em;
+}
+      img{
+        padding-left: 1em;
+        width:100%;
+      //  min-height:100%;
+      }
+    #icone{
+        width:10%;
+        height:10%;
+      //  min-height:100%;
+      }
+  }
+}
+.boite-couleur-3{
+  background: #fff;
+  margin-bottom: 200px;
+  img{
+
+    width: 100%;
+    max-width: 1200px;
+
+  }
+  h2{
+  padding: 30px;
+  }
+
+  p{
+&:nth-of-type(1){
+  padding: 50px 30px;
+}
+    padding: 0 30px;
+  }
+  h2{
+    color:#00B6FB;
+
+  }
+}
+section{
+  margin-top:100px;
+article{
+
+}
+}
+footer{
+  margin-top: .1em;
+border-top: solid 1px #000;
+//  background: #000;
+width:100%;
+text-align: center;
+  img{
+margin: 0 5em;
+
+    width: 10%;
+  }
+}
+audio{
+  padding: 10px 30px;
+  margin-bottom: 20px;
+}
+nav{
+
+
+  background-color: #000;
+  min-height: 10em;
+  li{
+    padding: 0 30px;
+    display: inline-block;
+    list-style-type:none;
+  }
+}
+header{
+  a{
+    color:#00B6FB;
+    text-decoration: none;
+    &:hover{
+      color:blue;
+      text-decoration: none;
+    }
+  }
+
+iframe{
+  width: 100%;
+  min-height: 30em;
+}
+
+}
+a{
+  text-decoration: none;
+}
+.titre{
+position:absolute;
+  top:50px;
+  font-size: 4em;
+  color:#fff;
+  width: 100%;
+  }
+.boite-couleur-2{
+  a{
+    color:#00B6FB;
+    text-decoration: none;
+    &:hover{
+      color:blue;
+      text-decoration: none;
+    }
+  }
+    background: #fff;
+  padding-bottom: 100px;
+  position: relative;
+img{
+
+  width: 100%;
+  max-width: 1200px;
+
+}
+
+  h2{
+  padding: 30px;
+  }
+
+  p,li{
+    color:#fff;
+    padding: 0 30px;
+  }
+  h2{
+    color:#00B6FB;
+
+  }
+}
+#derniers_evenements{
+    padding-bottom: 80px;
+  .contenu{
+    h2{
+      margin-bottom: 20px;
+    }
+  li{
+    padding: 0;
+    list-style-type: none;
+  margin-top: -70px;
+
+  }
+  }
+}
+.boite-couleur-1{
+  a{
+    color:#00B6FB;
+    text-decoration: none;
+    &:hover{
+      color:blue;
+      text-decoration: none;
+    }
+  }
+  h2{
+  padding: 30px;
+  }
+  background: #000;
+  p,li{
+    text-decoration: none;
+    color:#fff;
+    padding: 0 30px;
+  }
+  h2{
+    color:#00B6FB;
+
+  }
+
+  article{
+
+      h2:nth-of-type(1),>p{
+
+        position: relative;
+        top: -100px;
+        padding-bottom: 30px;
+
+      }
+
+      img{
+        width:50%;
+      //  min-height:100%;
+      }
+  }
+}
+#sectionPrincipale{
+  a{
+    color:#00B6FB;
+    &:hover{
+      color:blue;
+    }
+  }
+  margin: 20px auto;
+  max-width:1200px;
+}
+#derniers_articles{
+
+
+
+}
+
+#lire{
+  &:hover{
+    filter: brightness(.8);
+  }
+a{
+    color:#fff;
+    text-decoration: none;
+    &:hover{
+        color:blue;
+        text-decoration: none;
+    }
+}
+  background: url('http://localhost/bluein/wp-content/themes/bluein/images/background-btn.png');
+  border:none;
+  padding: 10px;
+  margin: 30px;
+
+}
+
+
+//media queries
+@media screen and (min-width: 200px) and (max-width: 480px) {
+.boite-couleur-1{
+  img{
+    min-width:100%;
+    min-height:105%;
+  }
+}
+}
+@media screen and (min-width: 480px)  {
+.boite-couleur-1{
+  img{
+    min-width:100%;
+    min-height: 600px;
+    }
+}
+}
+
+
+
+
+@media screen and (max-width: 992px)  {
+
+
+
+#menu{
+  height: auto;
+  #logo{
+    display: none;
+
+  }
+}
+
+  #menuToggle
+{
+  display: block;
+  position: relative;
+  top: 50px;
+  left: 50px;
+
+  z-index: 1;
+
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+#menuToggle input
+{
+  display: block;
+  width: 40px;
+  height: 32px;
+  position: absolute;
+  top: -7px;
+  left: -5px;
+
+  cursor: pointer;
+
+  opacity: 0; /* hide this */
+  z-index: 2; /* and place it over the hamburger */
+
+  -webkit-touch-callout: none;
+}
+
+/*
+ * Just a quick hamburger
+ */
+#menuToggle span
+{
+  display: block;
+  width: 33px;
+  height: 4px;
+  margin-bottom: 5px;
+  position: relative;
+
+  background: #cdcdcd;
+  border-radius: 3px;
+
+  z-index: 1;
+
+  transform-origin: 4px 0px;
+
+  transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              opacity 0.55s ease;
+}
+
+#menuToggle span:first-child
+{
+  transform-origin: 0% 0%;
+}
+
+#menuToggle span:nth-last-child(2)
+{
+  transform-origin: 0% 100%;
+}
+
+/*
+ * Transform all the slices of hamburger
+ * into a crossmark.
+ */
+#menuToggle input:checked ~ span
+{
+  opacity: 1;
+  transform: rotate(45deg) translate(-2px, -1px);
+  background: #fff;
+}
+
+/*
+ * But let's hide the middle one.
+ */
+#menuToggle input:checked ~ span:nth-last-child(3)
+{
+  opacity: 0;
+  transform: rotate(0deg) scale(0.2, 0.2);
+}
+
+/*
+ * Ohyeah and the last one should go the other direction
+ */
+#menuToggle input:checked ~ span:nth-last-child(2)
+{
+  transform: rotate(-45deg) translate(0, -1px);
+}
+
+/*
+ * Make this absolute positioned
+ * at the top left of the screen
+ */
+#menu
+{
+  position: absolute;
+  width: 300px;
+  margin: -100px 0 0 -50px;
+  padding: 50px;
+  padding-top: 125px;
+  min-height: 100%;
+  background: #000;
+  list-style-type: none;
+  -webkit-font-smoothing: antialiased;
+  /* to stop flickering of text in safari */
+
+  transform-origin: 0% 0%;
+  transform: translate(-100%, 0);
+
+  transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
+}
+
+#menu li
+{
+  display: block;
+  padding: 10px 0;
+  font-size: 22px;
+}
+
+/*
+ * And let's slide it in from the left
+ */
+#menuToggle input:checked ~ ul
+{
+  transform: none;
+}
+}
+@media screen and (min-width: 992px){
+header{
+  input{
+    display: none;
+
+  }
+}
+}

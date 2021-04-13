@@ -1,0 +1,19 @@
+table{
+
+.gigpress-info-item{
+
+      padding-right: .5em;
+
+}
+
+.gigpress-header{
+    color:#fff;
+    background-color: #66C3D2;
+}
+background-color: #BAECED;
+.gigpress-calendar-add{
+  &::after{
+    content:"*Ajoute dans ton agenda";
+  }
+}
+}
